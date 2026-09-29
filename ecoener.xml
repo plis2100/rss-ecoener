@@ -5,8 +5,17 @@
     <link>https://www.ecoener.es/noticias</link>
     <description>Últimas noticias corporativas, financieras y de proyectos de Ecoener</description>
     <language>es</language>
-    <lastBuildDate>Mon, 28 Sep 2026 11:55:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 11:30:30 +0000</lastBuildDate>
     <ns0:link href="https://www.ecoener.es/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ecoener supera 1.000 MW en activos y eleva un 53% su EBITDA</title>
+      <link>https://www.ecoener.es/noticias/ecoener-supera-1-000-mw-en-activos-y-eleva-un-53-su-ebitda</link>
+      <description>Ecoener supera 1.000 MW en activos y eleva un 53% su EBITDA</description>
+      <guid isPermaLink="true">https://www.ecoener.es/noticias/ecoener-supera-1-000-mw-en-activos-y-eleva-un-53-su-ebitda</guid>
+      <category>Presentación de resultados</category>
+      <ns1:content url="https://ecoener-cms-uploads.fra1.digitaloceanspaces.com/prod/fb440e01d5c803507a75526eab487875.png" medium="image" />
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ecoener refuerza su estructura financiera con una operación pionera en el MARF</title>
       <link>https://www.ecoener.es/noticias/ecoener-refuerza-su-estructura-financiera-con-una-operacion-pionera-en-el-marf</link>
@@ -67,15 +76,6 @@
       <category>ESG</category>
       <ns1:content url="https://ecoener-cms-uploads.fra1.digitaloceanspaces.com/prod/09a0a36a9d5a9ae8abf27c3f99000654.JPG" medium="image" />
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ecoener obtiene la máxima calificación climática de S&amp;P Global Ratings</title>
-      <link>https://www.ecoener.es/noticias/ecoener-obtiene-la-maxima-calificacion-climatica-de-s-and-p-global-ratings</link>
-      <description>Ecoener obtiene la máxima calificación climática de S&amp;P Global Ratings</description>
-      <guid isPermaLink="true">https://www.ecoener.es/noticias/ecoener-obtiene-la-maxima-calificacion-climatica-de-s-and-p-global-ratings</guid>
-      <category>ESG</category>
-      <ns1:content url="https://ecoener-cms-uploads.fra1.digitaloceanspaces.com/prod/d9615db35cf3c30c02225dbe10132555.jpg" medium="image" />
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
