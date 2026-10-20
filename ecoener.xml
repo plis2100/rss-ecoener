@@ -5,8 +5,17 @@
     <link>https://www.ecoener.es/noticias</link>
     <description>Últimas noticias corporativas, financieras y de proyectos de Ecoener</description>
     <language>es</language>
-    <lastBuildDate>Mon, 19 Oct 2026 11:07:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:20:34 +0000</lastBuildDate>
     <ns0:link href="https://www.ecoener.es/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ecoener incorpora a Jesús Sánchez Veiga para reforzar su equipo de Asesoría Jurídica</title>
+      <link>https://www.ecoener.es/noticias/ecoener-incorpora-a-jesus-sanchez-veiga-para-reforzar-su-equipo-de-asesoria-juridica</link>
+      <description>Ecoener incorpora a Jesús Sánchez Veiga para reforzar su equipo de Asesoría Jurídica</description>
+      <guid isPermaLink="true">https://www.ecoener.es/noticias/ecoener-incorpora-a-jesus-sanchez-veiga-para-reforzar-su-equipo-de-asesoria-juridica</guid>
+      <category>CORPORATIVO</category>
+      <ns1:content url="https://ecoener-cms-uploads.fra1.digitaloceanspaces.com/prod/6da23c9a2a76b8331f773ee2a0697bfa.JPG" medium="image" />
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ecoener supera 1.000 MW en activos y eleva un 53% su EBITDA</title>
       <link>https://www.ecoener.es/noticias/ecoener-supera-1-000-mw-en-activos-y-eleva-un-53-su-ebitda</link>
@@ -67,15 +76,6 @@
       <category>NEGOCIO</category>
       <ns1:content url="https://ecoener-cms-uploads.fra1.digitaloceanspaces.com/prod/93f06070dcfb3a7dcba05e1efadbe959.jpg" medium="image" />
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ecoener refuerza su liderazgo en sostenibilidad con nuevas metas de descarbonización y máximas calificaciones internacionales</title>
-      <link>https://www.ecoener.es/noticias/ecoener-refuerza-su-liderazgo-en-sostenibilidad-con-nuevas-metas-de-descarbonizacion-y-maximas-calificaciones-internacionales</link>
-      <description>Ecoener refuerza su liderazgo en sostenibilidad con nuevas metas de descarbonización y máximas calificaciones internacionales</description>
-      <guid isPermaLink="true">https://www.ecoener.es/noticias/ecoener-refuerza-su-liderazgo-en-sostenibilidad-con-nuevas-metas-de-descarbonizacion-y-maximas-calificaciones-internacionales</guid>
-      <category>ESG</category>
-      <ns1:content url="https://ecoener-cms-uploads.fra1.digitaloceanspaces.com/prod/09a0a36a9d5a9ae8abf27c3f99000654.JPG" medium="image" />
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
